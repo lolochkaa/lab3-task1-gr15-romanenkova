@@ -1,11 +1,9 @@
 # Overview
-
-It is public template of assignment `"labrabota 3"` for FPMI students
+Дан массив натуральных чисел размерности n. Отсортировать массив в порядке
+убывания сумм цифр десятичной записи чисел. Функция должна считать сумму десятичных цифр натурального числа.
 
 # Usage
-
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Romanenkova Lolita, 15 group
 
 # Building
-
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+ lab3-tsak1-gr15-romanenkova

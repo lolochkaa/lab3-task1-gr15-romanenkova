@@ -42,6 +42,7 @@ hello
 *.su
 *.idb
 *.pdb
+*.bin
 
 # Kernel Module Compile Results
 *.mod*
@@ -51,3 +52,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+lab3-main.bin
